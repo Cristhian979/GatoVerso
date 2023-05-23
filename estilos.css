@@ -35,17 +35,33 @@ font-family: 'Pangolin', cursive;
 }
 
 .navegacion{
-display:block;
+display:inline;
    background-color: black;
-   width: 50px;
    border-radius: 10px;
-   padding: 25px;
+   padding: 7px;
    color: #fff;
    font-family: 'Pangolin', cursive;
    text-decoration: none;
 
 }
 .navegacion:hover {
+background-color:#fff; 
+color: black;
+font-family: 'Pangolin', cursive;
+}
+
+.navegacion2{
+display:block;
+   background-color: black;
+   width: 70px;
+   border-radius: 10px;
+   padding: 7px;
+   color: #fff;
+   font-family: 'Pangolin', cursive;
+   text-decoration: none;
+
+}
+.navegacion2:hover {
 background-color:#fff; 
 color: black;
 font-family: 'Pangolin', cursive;
